@@ -4,3 +4,5 @@ Repositório dedicado a projetos e pipelines de Engenharia de IA — com foco em
 °[Primeiro Rag->](https://github.com/tjoelc/AI-Engineering-Lab/blob/main/RAG.ipynb)
 
 *[Segundo Rag-->](https://github.com/tjoelc/AI-Engineering-Lab/blob/main/Retrieving_Relavant_Documents.ipynb)
+
+*[Agente Simples-->](https://github.com/tjoelc/AI-Engineering-Lab/blob/main/agent.ipynb)
